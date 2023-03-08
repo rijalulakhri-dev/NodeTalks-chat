@@ -5,14 +5,14 @@
     "nodemon": "^2.0.20",
     "socket.io": "^4.5.4"
   },
-  "name": "redhat-chat",
+  "name": "nodetalks-chat",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "rijalul-akhri",
   "license": "ISC",
   "description": ""
 }
